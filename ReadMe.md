@@ -5,7 +5,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) berbasis Java Swing dengan tema **P
 ## Janji
 
 ```
-Saya Mohammad Arya Dhinata dengan NIM 2504992 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain
+Saya Mohammad Arya Dhinata dengan NIM 2504992 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain
 Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti
 yang di spesifikasikan. Aamiin
 ```
