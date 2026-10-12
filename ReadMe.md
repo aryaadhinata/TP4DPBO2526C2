@@ -1,6 +1,14 @@
 # PeopleData – Manajemen Data Sekolah (Java Swing)
  
 Aplikasi CRUD (Create, Read, Update, Delete) berbasis Java Swing dengan tema **People** pada konteks **sekolah**. Struktur kode mengikuti latihan ProductData: class model (`Person`), class GUI (`PeopleMenu`), dan file form IntelliJ GUI Designer (`PeopleMenu.form`).
+
+## Janji
+
+```
+Saya Mohammad Arya Dhinata dengan NIM 2504992 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain
+Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti
+yang di spesifikasikan. Aamiin
+```
  
 ## 1. Desain dan Fungsi Program
  
